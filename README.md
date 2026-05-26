@@ -79,6 +79,5 @@ Once the server is running, visit the URL in your browser to interact with the p
 > All the content presented here is the result of my own individual work, and any resemblance to other works is purely coincidental. If you are a student, please refrain from using or copying this work in any way that violates the principles of academic honesty and integrity.
 
 ---
-
-## License
-MIT — see LICENSE.
+## Author
+Created by Arsenie — 2023.
