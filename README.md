@@ -1,4 +1,7 @@
 # Speed Limit Calculator
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 > BCDE101 Introduction to Programming - Portfolio
 > 
 > A PyFlask web application project, built as part of the **Introduction to Programming** course. It showcases some of the work and projects created during the course. The website is developed using **Flask** and **Python**.
