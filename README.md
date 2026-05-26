@@ -1,6 +1,7 @@
 # Speed Limit Calculator
 > BCDE101 Introduction to Programming - Portfolio
-> Welcome to the **Speed Limit Calculator**! This web application is built as part of the **Introduction to Programming** course. It showcases some of the work and projects created during the course. The website is developed using **Flask** and **Python**.
+> 
+> A PyFlask web application project, built as part of the **Introduction to Programming** course. It showcases some of the work and projects created during the course. The website is developed using **Flask** and **Python**.
 
 🔗 Live Demo: https://ads0417.pythonanywhere.com
 
